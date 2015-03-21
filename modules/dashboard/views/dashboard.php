@@ -46,6 +46,7 @@
      <script type="text/javascript">
         jQuery(document).ready(function(){
             $('#inboxtes').DataTable();
+            $('#kecamatan').DataTable();
         });
     </script>
 </body>
