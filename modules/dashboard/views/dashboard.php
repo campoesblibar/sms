@@ -47,6 +47,8 @@
         jQuery(document).ready(function(){
             $('#inboxtes').DataTable();
             $('#kecamatan').DataTable();
+            $('#kesatuan').DataTable();
+            $('#desa').DataTable();
         });
     </script>
 </body>
