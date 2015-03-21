@@ -12,4 +12,8 @@ class Dashboard extends IAN_Controller {
 		$this->template->display('main');
 	}
 
+	public function masterdata(){
+		$this->template->display('masterdata');
+	}
+
 }

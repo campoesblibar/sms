@@ -1,6 +1,6 @@
 <div class="container">
 	<div class="row-fluid">
-		<div class="col-md-8 column">
+		<div class="col-md-12 column">
 			<table class="table table-strip table-border table-hover" id="inboxtes">
 				<thead>
 					<th>Nama</th>
